@@ -15,7 +15,7 @@ vehicle_data_list = []
 for page_number in range(1, num_pages + 1):
     # Construct the URL for the current page
     url = base_url
-    
+
     if(page_number>1):
         url = base_url + "?page=" + str(page_number)
 
@@ -37,8 +37,8 @@ for page_number in range(1, num_pages + 1):
         # Loop through the data elements and extract specific details
         for vehicle_element in vehicle_data_elements:
             # Extract and store the details in a dictionary
-            title_element = vehicle_element.find("h2", class_="more").find("a")  # Locate the <a> element inside the <h2> with class "more"
-            title = title_element.text.strip(),  # Extract the text of the <a> element and remove leading/trailing whitespace
+            # title_element = vehicle_element.find("h2", class_="more").find("a")  # Locate the <a> element inside the <h2> with class "more"
+            title = vehicle_element.find("h2", class_="more").find("a").text.strip()  # Extract the text of the <a> element and remove leading/trailing whitespace
             price = vehicle_element.find("div", class_="boxintxt b").text.strip()
             date = vehicle_element.find("div", class_="boxintxt s").text.strip()
             
