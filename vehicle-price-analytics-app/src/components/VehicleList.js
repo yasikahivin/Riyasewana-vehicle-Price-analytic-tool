@@ -1,5 +1,6 @@
 // src/components/VehicleList.js
 import React, { useEffect, useState } from "react";
+import PriceChart from "./PriceChart";
 
 function VehicleList() {
   const [vehicleData, setVehicleData] = useState([]);
@@ -20,11 +21,12 @@ function VehicleList() {
           <li key={index}>
             <h2>{vehicle.Title}</h2>
             <p>Price: {vehicle.Price}</p>
-            <p>Location: {vehicle.Location}</p>
+            <p>Date: {vehicle.Date}</p>
             {/* Add more fields as needed */}
           </li>
         ))}
       </ul>
+      <PriceChart data={vehicleData} />
     </div>
   );
 }

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 # Define the base URL
 base_url = "https://riyasewana.com/search/aqua"
@@ -39,7 +40,7 @@ for page_number in range(1, num_pages + 1):
             # Extract and store the details in a dictionary
             # title_element = vehicle_element.find("h2", class_="more").find("a")  # Locate the <a> element inside the <h2> with class "more"
             title = vehicle_element.find("h2", class_="more").find("a").text.strip()  # Extract the text of the <a> element and remove leading/trailing whitespace
-            price = vehicle_element.find("div", class_="boxintxt b").text.strip()
+            price =  vehicle_element.find("div", class_="boxintxt b").text.strip()
             date = vehicle_element.find("div", class_="boxintxt s").text.strip()
             
             # Create a dictionary for the current vehicle
@@ -62,7 +63,7 @@ for page_number in range(1, num_pages + 1):
     response.close()
 
 # Save the scraped data to a JSON file
-with open("vehicle_data.json", "w", encoding="utf-8") as json_file:
+with open("vehicle-price-analytics-app/public/vehicle_data.json", "w", encoding="utf-8") as json_file:
     json.dump(vehicle_data_list, json_file, ensure_ascii=False, indent=4)
 
 print("Data saved to vehicle_data.json.")
