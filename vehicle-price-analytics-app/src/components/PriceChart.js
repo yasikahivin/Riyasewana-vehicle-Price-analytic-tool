@@ -7,8 +7,6 @@ function PriceChart({ data }) {
   const labels = data.map((entry) => entry.Date);
   const prices = data.map((entry) => entry.Price.replace(/[^0-9]+/g, ""));
 
-  console.log(prices);
-
   // In your component or a separate configuration file
   Chart.defaults.plugins.tooltip.callbacks.title = (tooltipItem) => {
     // Customize tooltip title format here

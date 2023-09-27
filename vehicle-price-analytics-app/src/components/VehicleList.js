@@ -16,6 +16,7 @@ function VehicleList() {
   return (
     <div>
       <h1>Vehicle Price Analytics</h1>
+      <PriceChart data={vehicleData} />
       <ul>
         {vehicleData.map((vehicle, index) => (
           <li key={index}>
@@ -26,7 +27,6 @@ function VehicleList() {
           </li>
         ))}
       </ul>
-      <PriceChart data={vehicleData} />
     </div>
   );
 }
