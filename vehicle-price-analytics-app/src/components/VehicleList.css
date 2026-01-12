@@ -63,6 +63,12 @@
   outline: none;
 }
 
+.field input,
+.field select {
+  min-width: 0; /*  allow grid items to shrink (prevents overlap) */
+  box-sizing: border-box;
+}
+
 .field input:focus,
 .field select:focus {
   border-color: rgba(0, 0, 0, 0.35);

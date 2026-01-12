@@ -297,7 +297,7 @@ function VehicleList() {
             />
           </div>
 
-          <div className="field">
+          {/* <div className="field">
             <label>Chart date field</label>
             <select
               value={chartDateField}
@@ -310,7 +310,7 @@ function VehicleList() {
               <option value="Date">Posting date</option>
               <option value="ScrapeDate">Scrape date (trend)</option>
             </select>
-          </div>
+          </div> */}
         </div>
 
         <div className="stats">
