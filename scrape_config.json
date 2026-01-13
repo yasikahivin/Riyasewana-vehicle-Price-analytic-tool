@@ -1,10 +1,10 @@
 {
-  "vtype": "cars",
-  "make": "toyota",
-  "model": "premio",
-  "city": "",
-  "min_price": 10000000,
-  "max_price": 20000000,
-  "condition": "registered",
-  "pages": 5
+    "vtype": "cars",
+    "make": "toyota",
+    "model": "premio",
+    "city": "Any",
+    "min_price": 10000000,
+    "max_price": 20000000,
+    "condition": "registered",
+    "pages": 5
 }

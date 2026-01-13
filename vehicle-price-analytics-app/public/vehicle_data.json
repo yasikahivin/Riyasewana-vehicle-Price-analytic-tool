@@ -1,19 +1,211 @@
 [
     {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 11600000,
-        "Date": "2026-01-03",
-        "Location": "Ratnapura",
-        "MileageKm": 111113,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-ratnapura-10989401"
+        "Title": "Toyota PREMIO G SUPIRIOR 2015 Car",
+        "Price": 13100000,
+        "Date": "2026-01-13",
+        "Location": "Kandy",
+        "MileageKm": 240000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-kandy-11042158"
     },
     {
-        "Title": "Toyota PREMIO G SUPERIOR 2018 Car",
-        "Price": 16700000,
+        "Title": "Toyota PREMIO NZT260 G SUPERIOR 2020 Car",
+        "Price": 16750000,
+        "Date": "2026-01-13",
+        "Location": "Katunayake",
+        "MileageKm": 53500,
+        "Link": "https://riyasewana.com/buy/toyota-premio-nzt260-sale-katunayake-11042106"
+    },
+    {
+        "Title": "Toyota Premio 2013 Car",
+        "Price": 12850000,
+        "Date": "2026-01-13",
+        "Location": "Colombo",
+        "MileageKm": 41675,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-11041988"
+    },
+    {
+        "Title": "Toyota Premio 2015 Car",
+        "Price": 14000000,
+        "Date": "2026-01-13",
+        "Location": "Nugegoda",
+        "MileageKm": 97000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-nugegoda-11041455"
+    },
+    {
+        "Title": "Toyota Premio 2017 Car",
+        "Price": 13650000,
+        "Date": "2026-01-13",
+        "Location": "Anuradapura",
+        "MileageKm": 191000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-anuradapura-11041344"
+    },
+    {
+        "Title": "Toyota Premio G 2013 Car",
+        "Price": 11000000,
+        "Date": "2026-01-13",
+        "Location": "Colombo",
+        "MileageKm": 120000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-colombo-11041216"
+    },
+    {
+        "Title": "Toyota Premio 2017 Car",
+        "Price": 15000000,
+        "Date": "2026-01-13",
+        "Location": "Middeniya",
+        "MileageKm": 125365,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-middeniya-11037928"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2012 Car",
+        "Price": 10400000,
+        "Date": "2026-01-13",
+        "Location": "Kandana",
+        "MileageKm": 135000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-kandana-11040013"
+    },
+    {
+        "Title": "Toyota Premio 2013 Car",
+        "Price": 10200000,
+        "Date": "2026-01-13",
+        "Location": "Maharagama",
+        "MileageKm": 122000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-maharagama-11039976"
+    },
+    {
+        "Title": "Toyota Premio 2018 Car",
+        "Price": 16500000,
+        "Date": "2026-01-13",
+        "Location": "Matara",
+        "MileageKm": 90000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-matara-11039972"
+    },
+    {
+        "Title": "Toyota Premio 2018 Car",
+        "Price": 16800000,
+        "Date": "2026-01-13",
+        "Location": "Weligama",
+        "MileageKm": 50000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-weligama-11039867"
+    },
+    {
+        "Title": "Toyota Premio G Superior 260 2014 Car",
+        "Price": 10590000,
+        "Date": "2026-01-13",
+        "Location": "Matara",
+        "MileageKm": 140000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-matara-11039429"
+    },
+    {
+        "Title": "Toyota PREMIO G SUPERIOR 2019 Car",
+        "Price": 16950000,
+        "Date": "2026-01-13",
+        "Location": "Negombo",
+        "MileageKm": 64000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-negombo-11039212"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2016 Car",
+        "Price": 12990000,
+        "Date": "2026-01-13",
+        "Location": "Nugegoda",
+        "MileageKm": 112000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-nugegoda-11039123"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2018 Car",
+        "Price": 15390000,
+        "Date": "2026-01-13",
+        "Location": "Dehiwala-Mount-Lavinia",
+        "MileageKm": 122000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-dehiwala-mount-lavinia-11038925"
+    },
+    {
+        "Title": "Toyota Premio 2013 Car",
+        "Price": 11040000,
+        "Date": "2026-01-13",
+        "Location": "Panadura",
+        "MileageKm": 158000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-panadura-11038879"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2019 Car",
+        "Price": 18975000,
+        "Date": "2026-01-13",
+        "Location": "Nugegoda",
+        "MileageKm": 25850,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-nugegoda-11038375"
+    },
+    {
+        "Title": "Toyota Premio G SUPERIOR 2018 Car",
+        "Price": 15800000,
+        "Date": "2026-01-13",
+        "Location": "Matara",
+        "MileageKm": 83000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-matara-11038364"
+    },
+    {
+        "Title": "Toyota Premio 2017 Car",
+        "Price": 14000000,
+        "Date": "2026-01-13",
+        "Location": "Kandy",
+        "MileageKm": 84000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-kandy-11038227"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2012 Car",
+        "Price": 11000000,
         "Date": "2026-01-12",
-        "Location": "Moratuwa",
-        "MileageKm": 46000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-moratuwa-11035979"
+        "Location": "Trincomalee",
+        "MileageKm": 150000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-trincomalee-11037918"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2017 Car",
+        "Price": 16000000,
+        "Date": "2026-01-12",
+        "Location": "Beruwala",
+        "MileageKm": 68000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-beruwala-11037652"
+    },
+    {
+        "Title": "Toyota PREMIO 2018 Car",
+        "Price": 16250000,
+        "Date": "2026-01-12",
+        "Location": "Colombo",
+        "MileageKm": 76000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-11037417"
+    },
+    {
+        "Title": "Toyota Premio G Superior 2014 Car",
+        "Price": 12500000,
+        "Date": "2026-01-12",
+        "Location": "Colombo",
+        "MileageKm": 200000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-colombo-11037290"
+    },
+    {
+        "Title": "Toyota PREMIO G SUPERIOR 2019 Car",
+        "Price": 16450000,
+        "Date": "2026-01-12",
+        "Location": "Colombo",
+        "MileageKm": 79000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-colombo-11036837"
+    },
+    {
+        "Title": "Toyota Premio 2018 Car",
+        "Price": 15700000,
+        "Date": "2026-01-12",
+        "Location": "Polgahawela",
+        "MileageKm": 63000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-sale-polgahawela-11036687"
+    },
+    {
+        "Title": "Toyota PREMIO G SUPERIOR 2015 Car",
+        "Price": 12290000,
+        "Date": "2026-01-12",
+        "Location": "Nugegoda",
+        "MileageKm": 174000,
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-nugegoda-11036602"
     },
     {
         "Title": "Toyota Premio G Superior 2015 Car",
@@ -30,14 +222,6 @@
         "Location": "Kandy",
         "MileageKm": 135000,
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-kandy-11035264"
-    },
-    {
-        "Title": "Toyota PREMIO NZT260 G SUPERIOR 2020 Car",
-        "Price": 16850000,
-        "Date": "2026-01-12",
-        "Location": "Gampaha",
-        "MileageKm": 53500,
-        "Link": "https://riyasewana.com/buy/toyota-premio-nzt260-sale-gampaha-11035153"
     },
     {
         "Title": "Toyota Premio 2013 Car",
@@ -62,30 +246,6 @@
         "Location": "Kadawatha",
         "MileageKm": 165000,
         "Link": "https://riyasewana.com/buy/toyota-premio-260-sale-kadawatha-11033952"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2016 Car",
-        "Price": 12990000,
-        "Date": "2026-01-12",
-        "Location": "Nugegoda",
-        "MileageKm": 112000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-nugegoda-11033616"
-    },
-    {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 10300000,
-        "Date": "2026-01-11",
-        "Location": "Kandana",
-        "MileageKm": 170000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-kandana-11033356"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2012 Car",
-        "Price": 11000000,
-        "Date": "2026-01-11",
-        "Location": "Trincomalee",
-        "MileageKm": 150000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-trincomalee-11033277"
     },
     {
         "Title": "Toyota Premio G Superior 2013 Car",
@@ -168,22 +328,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-11029481"
     },
     {
-        "Title": "Toyota Premio 2017 Car",
-        "Price": 14000000,
-        "Date": "2026-01-11",
-        "Location": "Kandy",
-        "MileageKm": 84009,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-kandy-11029217"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2018 Car",
-        "Price": 15390000,
-        "Date": "2026-01-11",
-        "Location": "Dehiwala-Mount-Lavinia",
-        "MileageKm": 122000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-dehiwala-mount-lavinia-11029010"
-    },
-    {
         "Title": "Toyota Premio G Superior 2013 Car",
         "Price": 10975000,
         "Date": "2026-01-11",
@@ -256,28 +400,12 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-kurunegala-11025421"
     },
     {
-        "Title": "Toyota Premio G 2013 Car",
-        "Price": 11000000,
-        "Date": "2026-01-10",
-        "Location": "Colombo",
-        "MileageKm": 120000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-colombo-11025000"
-    },
-    {
         "Title": "Toyota PREMIO 2013 Car",
         "Price": 11495000,
         "Date": "2026-01-10",
         "Location": "Malabe",
         "MileageKm": 110988,
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-malabe-11024496"
-    },
-    {
-        "Title": "Toyota PREMIO 2018 Car",
-        "Price": 16250000,
-        "Date": "2026-01-10",
-        "Location": "Colombo",
-        "MileageKm": 76000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-11024365"
     },
     {
         "Title": "Toyota Premio 2013 Car",
@@ -299,9 +427,9 @@
         "Title": "Toyota Premio G Superior 260 2014 Car",
         "Price": 11700000,
         "Date": "2026-01-10",
-        "Location": "Moneragala",
+        "Location": "Homagama",
         "MileageKm": 114000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-moneragala-11023861"
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-homagama-11023861"
     },
     {
         "Title": "Toyota Premio 2018 Car",
@@ -328,20 +456,12 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-marawila-11023046"
     },
     {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 11600000,
-        "Date": "2026-01-03",
-        "Location": "Ratnapura",
-        "MileageKm": 111113,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-ratnapura-10989401"
-    },
-    {
         "Title": "Toyota Premio G Superior 260 2013 Car",
         "Price": 10975000,
         "Date": "2026-01-09",
-        "Location": "Ragama",
+        "Location": "Peliyagoda",
         "MileageKm": 135000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-ragama-11021807"
+        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-peliyagoda-11021807"
     },
     {
         "Title": "Toyota Premio G Superior 2016 Car",
@@ -352,28 +472,12 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-matara-11021267"
     },
     {
-        "Title": "Toyota Premio G Superior 2013 Car",
-        "Price": 10650000,
-        "Date": "2026-01-09",
-        "Location": "Embilipitiya",
-        "MileageKm": 150000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-embilipitiya-11020892"
-    },
-    {
         "Title": "Toyota Premio 2013 Car",
         "Price": 11200000,
         "Date": "2026-01-09",
         "Location": "Katunayake",
         "MileageKm": 174100,
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-katunayake-11019982"
-    },
-    {
-        "Title": "Toyota Premio 2018 Car",
-        "Price": 16900000,
-        "Date": "2026-01-09",
-        "Location": "Colombo",
-        "MileageKm": 48000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-11019930"
     },
     {
         "Title": "Toyota Premio 2019 Car",
@@ -440,14 +544,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-boralesgamuwa-11018441"
     },
     {
-        "Title": "Toyota Premio G Superior 2017 Car",
-        "Price": 14700000,
-        "Date": "2026-01-09",
-        "Location": "Kurunegala",
-        "MileageKm": 98000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-kurunegala-11018438"
-    },
-    {
         "Title": "Toyota Premio 2019 Car",
         "Price": 15800000,
         "Date": "2026-01-09",
@@ -456,36 +552,12 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-dehiwala-mount-lavinia-11018397"
     },
     {
-        "Title": "Toyota Premio 2016 Car",
-        "Price": 12500000,
-        "Date": "2026-01-09",
-        "Location": "Weligama",
-        "MileageKm": 200000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-weligama-11018094"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2019 Car",
-        "Price": 16300000,
-        "Date": "2026-01-09",
-        "Location": "Negombo",
-        "MileageKm": 65000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-negombo-11018009"
-    },
-    {
         "Title": "Toyota Premio G Superior 2018 Car",
         "Price": 14900000,
         "Date": "2026-01-09",
         "Location": "Negombo",
         "MileageKm": 70000,
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-negombo-11017988"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2019 Car",
-        "Price": 16200000,
-        "Date": "2026-01-09",
-        "Location": "Negombo",
-        "MileageKm": 45000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-negombo-11017969"
     },
     {
         "Title": "Toyota Premio G Superior 2018 Car",
@@ -552,14 +624,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-kandana-11015205"
     },
     {
-        "Title": "Toyota Premio G Superior 2013 Car",
-        "Price": 11000000,
-        "Date": "2026-01-08",
-        "Location": "Avissawella",
-        "MileageKm": 150000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-avissawella-11015202"
-    },
-    {
         "Title": "Toyota Premio 2018 Car",
         "Price": 15490000,
         "Date": "2026-01-08",
@@ -576,28 +640,12 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-11014494"
     },
     {
-        "Title": "Toyota Premio G Superior 2016 Car",
-        "Price": 13500000,
-        "Date": "2026-01-08",
-        "Location": "Beruwala",
-        "MileageKm": 165000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-beruwala-11014481"
-    },
-    {
         "Title": "Toyota Premio G Superior 2018 Car",
         "Price": 15675000,
         "Date": "2026-01-08",
         "Location": "Matara",
         "MileageKm": 98000,
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-matara-11013327"
-    },
-    {
-        "Title": "Toyota Premio 2015 Car",
-        "Price": 12100000,
-        "Date": "2026-01-08",
-        "Location": "Matara",
-        "MileageKm": 180000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-matara-11013308"
     },
     {
         "Title": "Toyota Premio G Superior 2018 Car",
@@ -632,14 +680,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-matugama-11011254"
     },
     {
-        "Title": "Toyota Premio G Superior 2017 Car",
-        "Price": 14900000,
-        "Date": "2026-01-07",
-        "Location": "Colombo",
-        "MileageKm": 104000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-colombo-11010295"
-    },
-    {
         "Title": "Toyota Premio G Superior 2014 Car",
         "Price": 12000000,
         "Date": "2026-01-07",
@@ -654,14 +694,6 @@
         "Location": "Panadura",
         "MileageKm": 53000,
         "Link": "https://riyasewana.com/buy/toyota-premio-260-sale-panadura-11010055"
-    },
-    {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 11600000,
-        "Date": "2026-01-03",
-        "Location": "Ratnapura",
-        "MileageKm": 111113,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-ratnapura-10989401"
     },
     {
         "Title": "Toyota Premio 2016 Car",
@@ -816,14 +848,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-galle-10999970"
     },
     {
-        "Title": "Toyota Premio G Superior 2014 Car",
-        "Price": 10690000,
-        "Date": "2026-01-05",
-        "Location": "Matara",
-        "MileageKm": 140000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-matara-10999908"
-    },
-    {
         "Title": "Toyota Premio G Superior 2017 Car",
         "Price": 15250000,
         "Date": "2026-01-05",
@@ -896,14 +920,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-colombo-10995243"
     },
     {
-        "Title": "Toyota PREMIO NZT260 G SUPERIOR 2017 Car",
-        "Price": 15400000,
-        "Date": "2026-01-04",
-        "Location": "Matara",
-        "MileageKm": 84000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-nzt260-sale-matara-10994092"
-    },
-    {
         "Title": "Toyota PREMIO 2013 Car",
         "Price": 11400000,
         "Date": "2026-01-04",
@@ -926,14 +942,6 @@
         "Location": "Matara",
         "MileageKm": 90000,
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-matara-10991681"
-    },
-    {
-        "Title": "Toyota PREMIO G SUPERIOR 2015 Car",
-        "Price": 12290000,
-        "Date": "2026-01-03",
-        "Location": "Nugegoda",
-        "MileageKm": 175000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-nugegoda-10990188"
     },
     {
         "Title": "Toyota Premio 2013 Car",
@@ -982,14 +990,6 @@
         "Location": "Moneragala",
         "MileageKm": 102000,
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-moneragala-10986477"
-    },
-    {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 11600000,
-        "Date": "2026-01-03",
-        "Location": "Ratnapura",
-        "MileageKm": 111113,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-ratnapura-10989401"
     },
     {
         "Title": "Toyota Premio 2019 Car",
@@ -1054,14 +1054,6 @@
         "Location": "Negombo",
         "MileageKm": 160000,
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-negombo-10977269"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2010 Car",
-        "Price": 10150000,
-        "Date": "2025-12-31",
-        "Location": "Piliyandala",
-        "MileageKm": 163000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-piliyandala-10977256"
     },
     {
         "Title": "Toyota Premio G Superior 2017 Car",
@@ -1224,14 +1216,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-sale-dehiwala-mount-lavinia-10956804"
     },
     {
-        "Title": "Toyota PREMIO G SUPERIOR 2019 Car",
-        "Price": 16950000,
-        "Date": "2025-12-27",
-        "Location": "Negombo",
-        "MileageKm": 62000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-negombo-10953848"
-    },
-    {
         "Title": "Toyota Premio 2017 Car",
         "Price": 15000000,
         "Date": "2025-12-26",
@@ -1312,14 +1296,6 @@
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-embilipitiya-10941076"
     },
     {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 11600000,
-        "Date": "2026-01-03",
-        "Location": "Ratnapura",
-        "MileageKm": 111113,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-ratnapura-10989401"
-    },
-    {
         "Title": "Toyota Premio G Superior 2017 Car",
         "Price": 15500000,
         "Date": "2025-12-24",
@@ -1358,14 +1334,6 @@
         "Location": "Kadawatha",
         "MileageKm": null,
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-kadawatha-10937412"
-    },
-    {
-        "Title": "Toyota Premio G Superior 2019 Car",
-        "Price": 19475000,
-        "Date": "2025-12-23",
-        "Location": "Nugegoda",
-        "MileageKm": 25850,
-        "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-nugegoda-10935456"
     },
     {
         "Title": "Toyota Premio 2013 Car",
@@ -1422,14 +1390,6 @@
         "Location": "Pannipitiya",
         "MileageKm": 109000,
         "Link": "https://riyasewana.com/buy/toyota-premio-g-sale-pannipitiya-10924802"
-    },
-    {
-        "Title": "Toyota Premio 2013 Car",
-        "Price": 11190000,
-        "Date": "2025-12-20",
-        "Location": "Panadura",
-        "MileageKm": 159000,
-        "Link": "https://riyasewana.com/buy/toyota-premio-sale-panadura-10922897"
     },
     {
         "Title": "Toyota Premio G Superior 2013 Car",
